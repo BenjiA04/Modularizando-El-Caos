@@ -1,0 +1,14 @@
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\bin\Debug\net9.0\ModularizandoElCaos.exe
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\bin\Debug\net9.0\ModularizandoElCaos.deps.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\bin\Debug\net9.0\ModularizandoElCaos.runtimeconfig.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\bin\Debug\net9.0\ModularizandoElCaos.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\bin\Debug\net9.0\ModularizandoElCaos.pdb
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\obj\Debug\net9.0\ModularizandoElCaos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\obj\Debug\net9.0\ModularizandoElCaos.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\obj\Debug\net9.0\ModularizandoElCaos.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\obj\Debug\net9.0\ModularizandoElCaos.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\obj\Debug\net9.0\ModularizandoElCaos.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\obj\Debug\net9.0\refint\ModularizandoElCaos.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\obj\Debug\net9.0\ModularizandoElCaos.pdb
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\obj\Debug\net9.0\ModularizandoElCaos.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\ModularizandoElCaos\obj\Debug\net9.0\ref\ModularizandoElCaos.dll
